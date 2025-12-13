@@ -80,7 +80,9 @@ body {
 .circle img {
     display: none;
 }
-
+.circle1 img{
+    display: none;
+}
 
 .cir1 {
     background-image: url(img/1.png);
@@ -265,8 +267,10 @@ footer {
     /* border-radius: 50%; */
     background: #7cc77a;
     margin: auto;
+    display: block;
 }
 .circle1 img{
     margin: auto !important;
+
 }
 }
